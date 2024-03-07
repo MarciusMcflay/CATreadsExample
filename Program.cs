@@ -34,7 +34,7 @@ class Program
         int i = 0;
         while(run)
         {
-            Console.WriteLine("MarciusMcflay executando... " + i);
+            Console.WriteLine("MarciusMcfl executando... " + i);
             Thread.Sleep(1000); // Espera 1 segundo antes de imprimir a próxima mensagem
             i++;
         }
